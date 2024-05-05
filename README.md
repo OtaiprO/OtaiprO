@@ -21,6 +21,18 @@ Welcome to my GitHub! I'm Abdulmalek, a front-end developer passionate about bui
 
 Feel free to explore my projects here and reach out if you want to talk tech or collaborate!
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/abdulmalek-alotaibi](http://www.linkedin.com/in/abdulmalek-alotaibi)
+<p>
+  <a href="http://www.linkedin.com/in/abdulmalek-alotaibi">
+    <object data="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" type="image/svg+xml">
+      LinkedIn
+    </object>
+  </a>
+</p>
 
-![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=GoogleChrome&logoColor=white) [otaipro.github.io/Portfolio/](https://otaipro.github.io/Portfolio/)
+<p>
+  <a href="https://otaipro.github.io/Portfolio/">
+    <object data="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=GoogleChrome&logoColor=white" type="image/svg+xml">
+      Portfolio
+    </object>
+  </a>
+</p>

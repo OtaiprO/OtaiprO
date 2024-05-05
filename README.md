@@ -28,7 +28,7 @@ Feel free to explore my projects here and reach out if you want to talk tech or 
     </object>
   </a>
 </p>
-
+[![LinkedIn]
 <p>
   <a href="https://otaipro.github.io/Portfolio/">
     <object data="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=GoogleChrome&logoColor=white" type="image/svg+xml">
